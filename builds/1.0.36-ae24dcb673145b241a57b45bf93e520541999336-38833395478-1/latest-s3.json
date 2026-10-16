@@ -1,0 +1,10 @@
+{
+  "version": "1.0.36",
+  "board": "s3",
+  "url": "https://raw.githubusercontent.com/Heepie/eyebebe-release/firmware-dev/builds/1.0.36-ae24dcb673145b241a57b45bf93e520541999336-38833395478-1/eyebebe-s3-1.0.36-dev.bin",
+  "sha256": "e91860ccb1592a543ffc03f022cc634a0861a5f765645509b4287517ab438035",
+  "size": 6835520,
+  "releaseDate": "2026-10-16T01:33:11Z",
+  "mandatory": false,
+  "signature": null
+}
