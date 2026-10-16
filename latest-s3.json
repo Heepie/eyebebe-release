@@ -1,10 +1,10 @@
 {
-  "version": "1.0.36",
+  "version": "1.0.35",
   "board": "s3",
-  "url": "https://raw.githubusercontent.com/Heepie/eyebebe-release/firmware-dev/builds/1.0.36-f01bd405379407f4db50943c71f57c24887b4ade-1792109580-1/eyebebe-s3-1.0.36-dev.bin",
-  "sha256": "4f30e41d62f2246690e6d80327c845fce88e3e5840159602993f9c4626af541f",
-  "size": 6835536,
-  "releaseDate": "2026-10-16T00:14:27Z",
+  "url": "https://raw.githubusercontent.com/Heepie/eyebebe-release/firmware-dev/builds/1.0.35-89288bef25a1bb6445d17b754ff1b21547a8e539-38619284349-1/eyebebe-s3-1.0.35-dev.bin",
+  "sha256": "0a97a4f90c9be8259f41cdf6378cd6684784e9d83d25daf54c8686bccaa4ea46",
+  "size": 6835280,
+  "releaseDate": "2026-10-14T19:19:50Z",
   "mandatory": false,
   "signature": null
 }
