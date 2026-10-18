@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "artifactId": "b1e89775e14c49ff57573cd31dcea5bd11d4da501bc538eb907144a53365893e",
+  "channel": "dev",
+  "board": "s3",
+  "version": "1.1.0",
+  "sourceSha": "81e3b22bebce2a86fb08806f185ab2a7d39a790f",
+  "runId": "39100446376",
+  "runAttempt": "1",
+  "fileName": "eyebebe-s3-1.1.0-b1e89775e14c49ff57573cd31dcea5bd11d4da501bc538eb907144a53365893e.bin.enc",
+  "manifestName": "latest-s3-v2.json",
+  "ciphertextSize": 6970160,
+  "ciphertextSha256": "488c39ca0f037137f768c844672f8e5a4a7c8a28bcf9c2a7903f490a2ea5a1fa",
+  "imageSize": 6970160,
+  "imageSha256": "58309341055e95054430e523bcaabd6bbcffe919f14d1c7ed5a937f05c7276ed",
+  "manifestSha256": "6f4db494a05dc20e4d97af20945b9255fa62af1479b780d8caa04063348aa1a8",
+  "keyId": "b1e89775e14c49ff57573cd31dcea5bd11d4da501bc538eb907144a53365893e",
+  "signingKeyId": "ota-current-v1",
+  "url": "https://raw.githubusercontent.com/Heepie/eyebebe-release/firmware-dev/builds/b1e89775e14c49ff57573cd31dcea5bd11d4da501bc538eb907144a53365893e/eyebebe-s3-1.1.0-b1e89775e14c49ff57573cd31dcea5bd11d4da501bc538eb907144a53365893e.bin.enc",
+  "releaseDate": "2026-10-18T05:50:50Z",
+  "bridgeVersion": null
+}
