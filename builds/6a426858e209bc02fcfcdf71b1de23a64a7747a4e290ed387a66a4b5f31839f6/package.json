@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "artifactId": "6a426858e209bc02fcfcdf71b1de23a64a7747a4e290ed387a66a4b5f31839f6",
+  "channel": "dev",
+  "board": "jc4827w543ci",
+  "version": "1.3.8",
+  "sourceSha": "3ab8972ba9ff22344e5b00a8eb631bb21f493ed1",
+  "runId": "45172491452",
+  "runAttempt": "2",
+  "fileName": "eyebebe-jc4827w543ci-1.3.8-6a426858e209bc02fcfcdf71b1de23a64a7747a4e290ed387a66a4b5f31839f6.bin.enc",
+  "manifestName": "latest-jc-v2.json",
+  "ciphertextSize": 3206208,
+  "ciphertextSha256": "7c3634054d1a97d962b169ab5b81ccfff7fc41a713e55618bcf4aaf455ca9414",
+  "imageSize": 3206208,
+  "imageSha256": "54107b8f46d173ee3fd82d9cf9db30ba9859a291412a490a30b7833fb3b1d69a",
+  "manifestSha256": "0f88ca5bd33d891a036cd3db923675c3d9ea9a4915cc8e7e42c30831c74d2636",
+  "keyId": "6a426858e209bc02fcfcdf71b1de23a64a7747a4e290ed387a66a4b5f31839f6",
+  "signingKeyId": "ota-current-v1",
+  "url": "https://raw.githubusercontent.com/Heepie/eyebebe-release/firmware-dev/builds/6a426858e209bc02fcfcdf71b1de23a64a7747a4e290ed387a66a4b5f31839f6/eyebebe-jc4827w543ci-1.3.8-6a426858e209bc02fcfcdf71b1de23a64a7747a4e290ed387a66a4b5f31839f6.bin.enc",
+  "releaseDate": "2026-11-23T14:23:10Z"
+}
